@@ -1,0 +1,131 @@
+/* You can add global styles to this file, and also import other style files */
+img
+{
+    width: 2250px;
+    height: 1000px;
+}
+.button{
+    margin-bottom: 10%;
+}
+.page
+{
+    height: 1020px;
+    width : 2100px;
+    background-color: #5eadea;
+    margin-bottom: 3em;
+    margin-right:5%;
+    border-radius: 15px;
+    margin-left: 2%;
+}
+.index{
+    height:1000px;
+    width:2090px;
+    background-color: white;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    margin-right: 1px;
+    margin-left: 10px;
+    border-radius: 15px;
+    color: black;
+}
+.radio
+{
+    margin-left:69%;
+    width:50px;
+    height: 50px;
+    color: rgb(5, 61, 107);
+    background-repeat: no-repeat;
+}
+.radio1
+{
+    margin-left:74%;
+    width: 50px;
+    height: 50px;
+    background-repeat: no-repeat;
+
+}
+.main 
+{
+    display: flex;
+    font-size: smaller;
+    color: white;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+    align-content: space-between;
+  }
+.font
+{
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+    font-family:Arial, Helvetica, sans-serif ;
+   margin-bottom: 30%;
+    margin-left: 1%;
+    margin-top: -3em;   
+}
+.font1
+{
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+    font-family:Arial, Helvetica, sans-serif;
+   margin-bottom: 50%;
+    margin-left: 1%;
+}
+.page3
+{
+    height: 300px;
+    width: 2050px;
+    background-color: #5eadea;
+    border-radius: 15px;
+    border-color: #072b46;
+    margin-left: 1%;
+    margin-bottom: 45%;
+}
+.b2b
+{
+    font-size: 50px;
+    font-weight: 900;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.top-left
+{
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-size:85px;
+    color: white;
+    margin-right:20%;
+    margin-bottom:90%;
+    margin-left: 0%;
+}
+.page2
+{
+    height: 300px;
+    width: 2050px;
+    background-color: #5eadea;
+    border-radius: 15px;
+    border-color: #072b46;
+    margin-left: 1%;
+}
+.img
+{
+    width: 100px;
+    height: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,65 @@
+.top-left {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    font-family:'Monstserrat',sans-serif;
+    font-weight: bold;
+    font-size:70px;
+    color: black;
+    margin-top: 13%;
+    margin-right:20%;
+  }
+  .signup{
+      background-color: #3F9CE2;
+      color: white;
+      width:350px;
+      height: 60px;
+      border-color: white;
+      border-radius: 10px;
+      margin-top: 7%;
+      margin-left: 100%;
+      font-size: 30px;
+  }
+  .login{
+      background-color: #3F9CE2;
+      color: white;
+      width:350px;
+      height: 60px;
+      border-color: white;
+      border-radius: 10%;
+      margin-top: 7%;
+      margin-left: 100%;
+      font-size: 30px;
+  }
+  .content{
+      height: 130px;
+      width: 100%;
+      background-color: #3F9CE2;
+      margin-top: 1em;
+  }
+  .b2b{
+      margin-right: 12%;
+      margin-top: 2%;
+      font-weight:bold;
+      font-size: 49px;
+      color:white;
+      padding: 2rem;
+      font-family: 'Monstserrat',sans-serif;
+      margin-left: 30%;
+  }
+  .home{
+      margin-right: 12%;
+      font-weight:bold;
+      font-size: 30px;
+      color:white;
+      font-family: 'Monstserrat',sans-serif;
+      margin-left: 14%;
+      margin-top: 10%;    
+  }
+  img{
+      width: 2250px;
+      height: 950px;
+  }
+  
+  
+  

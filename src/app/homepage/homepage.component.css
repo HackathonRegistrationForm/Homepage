@@ -1,0 +1,93 @@
+    .container{
+      height: 1000px;
+      width: 2000px;
+      background-color: #3f9ce2;
+    }
+    .b2bcolor{
+      margin: 200px;
+      font-size:40px;
+      color: white;
+      font-weight: 700;
+      margin-left:1%;
+    }
+    .color{
+      margin: 50px;
+      font-size:30px;
+      color: white;
+      font-weight: 500;
+      margin-right: 5%;
+    }  
+    .bb{
+      margin-left: 40em;
+      margin-top: -21%;
+    }
+    .p{  
+      font-size: 25px;
+      color:white;
+      margin-top: -7em;
+      margin-left:45em
+    }
+    .select{
+      margin-left: -5em;
+    }
+    *{
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    .slider{
+      position: relative;
+      width: 60%;
+      overflow: hidden;
+    }
+  .images{
+    display: flex;
+    width: 100%;
+  }
+  .images img{
+    height: 400px;
+    width: 100%;
+    transition: all;
+  }
+  .images input{
+    display: none;
+  }
+  .dots{
+    display: flex;
+    justify-content: center;
+    margin: 5px;
+    margin-left: 65%;
+  }
+  .dots label{
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    border: solid #fff 3px;
+    cursor: pointer;
+    transition: all 0.15s ease;
+    margin: 5px;
+  }
+  .dots label:hover{
+    background-color: white;
+  }
+  #img1:checked ~ .m1{
+    margin-left: 50%;
+  }
+  #img2:checked ~ .m2{
+    margin-left: -100%;
+  }
+  #img3:checked ~ .m3{
+    margin-left: -200%;
+  }
+  #img4:checked ~ .m4{
+    margin-left: -300%;
+  }
+  .m1{
+    align-items: center;
+    width: 100%;
+    margin-top: 10%;  
+    margin-left: 65%;
+  }
+  .m2{
+    margin-top: 10%;
+  }
